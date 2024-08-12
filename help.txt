@@ -1,0 +1,19 @@
+THe GIST of Langchain (Simple application)
+
+PromptTemplate
+chatModels
+Chains
+agents 
+tools
+
+
+Proxycurl API is a LinkedIn Profile Scrapping API
+
+
+output parser
+Tavily - Connect your LLM to the web
+Tavily Search API is a search engine optimized for LLMs and RAG, aimed at efficient, quick, and persistent search results
+Tweepy - Wrapper around Twitter API
+https://gist.github.com/emarco177/9d4fdd52dc432c72937c6e383dd1c7cc
+
+Working Summary : Creating  Custom tool, then using an agent to use the tools, and chaining it now all together
