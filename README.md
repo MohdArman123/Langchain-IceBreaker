@@ -15,7 +15,7 @@ Open your terminal and clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/ice-breaker.git
+git clone https://github.com/MohdArman123/Langchain-IceBreaker.git
 cd ice-breaker
 Install Python Dependencies
 
